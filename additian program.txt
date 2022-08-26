@@ -11,7 +11,8 @@ int main()
    c=a+b;
 
    cout<<"sum is"<<c;
- 
+   
+   cout<<"Subtraction :"<<(a-b);
+   
    return 0;
 }
-    
