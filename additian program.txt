@@ -1,0 +1,17 @@
+#include<iostream>
+using namesapce std;
+int main()
+{
+   int a,b,c;
+
+   cout<<"entr two number ";
+
+   cin>>a>>b;
+
+   c=a+b;
+
+   cout<<"sum is"<<c;
+ 
+   return 0;
+}
+    
